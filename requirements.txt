@@ -42,12 +42,5 @@ jupyterlab-night
 # ipyleaflet
 
 # Python: plotting libraries (optional)
-# plotly>=5,<6
-# bqplot
-
-# Custom
-plotly
-matplotlib
-seaborn
-pandas
-nbformat
+plotly>=5,<6
+bqplot
